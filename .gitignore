@@ -1,8 +1,17 @@
 invoice_access.json
 Invoice Extractor.ipynb
 nota.png
-nota2.pdf
 .streamlit
-sa-key.json
 temp_service_account.json
 .ipynb_checkpoints
+__pycache__/
+*.pyc
+*.zip
+.env
+.venv
+sa_key*
+check.py
+notaburam.jpg
+*.onnx
+*.pdf
+experiment.ipynb
